@@ -1,4 +1,4 @@
-# [SDF01] Challenge: My First Repository 💥
+# [SDF01] Challenge: My First Repository 💥 (Got new emojis by inserting win + .)
 
 # 👋 Hi, I'm [Amirah Oliver]
 
