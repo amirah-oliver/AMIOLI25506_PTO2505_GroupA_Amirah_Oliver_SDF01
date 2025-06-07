@@ -88,4 +88,5 @@ Some highlights from my portfolio include (to be updated as I progress!):
 
 ## 🏆 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirah-oliver&show_icons=true&theme=radical) - i got this stats by adding my repo name to the username in this link and linking it to github 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirah-oliver&show_icons=true&theme=radical) 
+- i got this stats by adding my repo name to the username in this link and linking it to github 
