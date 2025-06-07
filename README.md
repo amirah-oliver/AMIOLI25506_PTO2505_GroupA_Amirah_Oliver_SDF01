@@ -75,7 +75,7 @@ Some highlights from my portfolio include (to be updated as I progress!):
 
 ## 📲 Connect With Me 
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/amirah-oliver)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/amirah-oliver) - i got this link on my github profile URL
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/amirah-oliver-50360a317)  
 📧 Email: (mailto:amirah.oliver16@gmail.com)
 
